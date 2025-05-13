@@ -1,0 +1,9 @@
+[submodule "LadderAMOEncoder"]
+	path = LadderAMOEncoder
+	url = https://github.com/TruongXuanHieu-H/LadderAMOEncoder
+[submodule "LadderAMKEncoder"]
+	path = LadderAMKEncoder
+	url = https://github.com/TruongXuanHieu-H/LadderAMKEncoder
+[submodule "anti-bandwidth-scl-extend"]
+	path = anti-bandwidth-scl-extend
+	url = https://github.com/TruongXuanHieu-H/anti-bandwidth-scl-extend
