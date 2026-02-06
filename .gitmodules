@@ -10,3 +10,6 @@
 [submodule "SAT-for-Antibandwidth-Problem"]
 	path = SAT-for-Antibandwidth-Problem
 	url = https://github.com/TruongXuanHieu-H/SAT-for-Antibandwidth-Problem.git
+[submodule "ABP-solver"]
+	path = ABP-solver
+	url = https://github.com/vanh28/ABP-solver.git
