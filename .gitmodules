@@ -7,3 +7,6 @@
 [submodule "anti-bandwidth-scl-extend"]
 	path = snti-bandwdith-scl-extend
 	url = https://github.com/TruongXuanHieu-H/SAT-for-Antibandwidth-Problem
+[submodule "SAT-for-Antibandwidth-Problem"]
+	path = SAT-for-Antibandwidth-Problem
+	url = https://github.com/TruongXuanHieu-H/SAT-for-Antibandwidth-Problem.git
