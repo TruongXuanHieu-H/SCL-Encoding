@@ -4,9 +4,6 @@
 [submodule "LadderAMKEncoder"]
 	path = LadderAMKEncoder
 	url = https://github.com/TruongXuanHieu-H/LadderAMKEncoder
-[submodule "SAT-for-Antibandwidth-Problem"]
-	path = SAT-for-Antibandwidth-Problem
+[submodule "anti-bandwidth-scl-extend"]
+	path = snti-bandwdith-scl-extend
 	url = https://github.com/TruongXuanHieu-H/SAT-for-Antibandwidth-Problem
-[submodule "ABP-solver"]
-	path = ABP-solver
-	url = https://github.com/vanh28/ABP-solver
