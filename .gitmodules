@@ -1,0 +1,12 @@
+[submodule "ABP-solver"]
+	path = ABP-solver
+	url = https://github.com/vanh28/ABP-solver
+[submodule "SAT-for-Nurse-Rostering-Problem"]
+	path = SAT-for-Nurse-Rostering-Problem
+	url = https://github.com/TruongXuanHieu-H/SAT-for-Nurse-Rostering-Problem
+[submodule "LadderAMOEncoder"]
+	path = LadderAMOEncoder
+	url = https://github.com/TruongXuanHieu-H/LadderAMOEncoder
+[submodule "LadderAMKEncoder"]
+	path = LadderAMKEncoder
+	url = https://github.com/TruongXuanHieu-H/LadderAMKEncoder
